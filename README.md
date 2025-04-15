@@ -1,6 +1,6 @@
 # Star Wars: O Despertar da API 🌌✨
 
-## Desenvolvido por **[Felipe Avelino Pedaes]** 👨‍💻  
+## Desenvolvido por **Felipe Avelino Pedaes** 👨‍💻  
 Projeto criado para a disciplina **Programação para Dispositivos Móveis** na Fatec de Franca.
 
 ---
