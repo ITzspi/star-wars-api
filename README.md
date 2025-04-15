@@ -19,24 +19,22 @@ O **Star Wars: O Despertar da API** é um aplicativo React Native que consome a 
 
 ## Comandos Para Executar o Projeto ▶️
 
-```bash
-# 1. Clone o repositório
-git clone https://https://github.com/ITzspi/star-wars-api.git
-
-# 2. Acesse o diretório do projeto
-cd star-wars-api
-
-# 3. Instale as dependências
-npm install
-
-# 4. Inicie o servidor Expo
-npx expo start
-
+1. **Clone o repositório** para o seu ambiente de desenvolvimento:
+    ```bash
+    git clone https://github.com/ITzspi/star-wars-api.git
+2. Acesse o diretório do projeto:
+    ```bash
+    cd star-wars-api
+3. Instale as dependências necessárias:
+    ```bash
+    npm install
+4. Inicie o servidor Expo:
+    ```
+    npx expo start
 5. Instale e abra o app Expo GO no seu celular e escaneie o QR Code exibido no terminal.
 
 ````
-
----
+````
 
 ## 🛠️ Tecnologias Utilizadas
 
